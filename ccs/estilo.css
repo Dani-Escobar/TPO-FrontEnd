@@ -75,3 +75,7 @@ p{
   font-style: italic;
 }
 
+#maps{
+  height: 50%;
+  width: 50%;
+}
