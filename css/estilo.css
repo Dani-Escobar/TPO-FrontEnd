@@ -114,4 +114,8 @@ footer{
   background-color: rgb(5, 0, 14); 
 }
 
-
+#marquesina {
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+}
