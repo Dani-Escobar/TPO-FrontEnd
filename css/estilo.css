@@ -42,10 +42,15 @@
   }
 
 nav{
-    background-color: rgb(250, 221, 250);
+    background-color: rgb(0, 0, 0);
     width: 100%;
-    height: 100px ;
     font-style: italic;
+}
+li{
+  padding: 10px; 
+  background-color: rgb(5, 0, 14);
+  color:white; 
+  display:inline;
 }
 
 a{
@@ -62,6 +67,9 @@ a{
 #atencion-div{
   text-align: center; 
   background-color: rgb(0, 0, 0);
+}
+.pheader{
+  color:white
 }
 @media only screen and (max-width: 600px){
   .enlace{
@@ -102,20 +110,14 @@ p{
 }
 
 
+.divfooter{
+  padding: 10px; 
+  background-color: rgb(5, 0, 14); 
+  color: white;
+}
 footer{
-  font-style: italic;
-  background-color: rgb(248, 220, 248);
-  position: absolute;
-  height: auto;
-  width: 100vw;
-  padding-top: 40px;
-  color: blueviolet ;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-direction: column;
   text-align: center;
-  align-items: center;
+
 }
 
 
