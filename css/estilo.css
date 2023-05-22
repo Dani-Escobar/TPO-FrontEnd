@@ -109,15 +109,9 @@ p{
   transform: translate(-50%, -50%);
 }
 
-
-.divfooter{
-  padding: 10px; 
-  background-color: rgb(5, 0, 14); 
-  color: white;
-}
 footer{
   text-align: center;
-
+  background-color: rgb(5, 0, 14); 
 }
 
 
