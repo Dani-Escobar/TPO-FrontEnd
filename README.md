@@ -1,33 +1,32 @@
 # TPO-FrontEnd
 
-Con los cambios realizados, la pagina queda de la siguiente manera:
-![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/a603b1fb-fac5-4809-b4b4-6ad22dd89ca8)
+Nuestro TPO se trata de una página de un restaurant de comida arabe, en la misma implementamos el uso de HTML, CSS, javascript, el consumo de la API de Google Maps y una animación en forma de marquesina.
 
-No creo que sea una buena idea que se use parrafos en  el nav, como estaba hecho anteriormente quedaba mejor. Además era el método que se mostró en clase.
-
-El carousel para el home ahora se distorsiono todo y tiene imagenes gigantes. 
-
-![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/b81fa0f2-9057-4fc4-8024-e7b2aa49f1c0)
-
-Agregaste el footer nuevo abajo del anterior y no dentro del mismo. Así que se veo medio feo.
-
-![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/74b67cad-54ac-4d60-8818-fa88e917ccf2)
-
-
-Me gusto lo de las redes, quise hacerlo pero no habia podido hacer que me quede de la misma manera.
-
-Voy a subir un nuevo archivo llamado display.html con unos cambios que le hice al index.html antes de los ultimos cambios que realizaste para que lo clones y veas si te gusta.
-
-Basicamente, quedaria de la siguiente manera:
+La vista de la página del home es:
 
 Header:
-![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/71341906-7787-4400-bb8d-984d9044c675)
-
-Carousel:
-![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/bdf55d4e-ee68-468c-bc15-a33b45a3deb7)
+![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/98b80d1e-0207-43ab-8bfb-40ea460c9cb6)
 
 Body:
-![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/c2216fcb-c3eb-40d9-8477-9f66ec8ea49f)
+![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/13522663-30ca-43bf-b0c2-5644df8cb6c7)
+
+![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/35febef0-e92a-4def-8fa9-2f0051284149)
+
+![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/7a826ea6-3d54-4d10-b259-ed690c33335a)
 
 Footer:
-![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/1c45779e-92cd-4d2a-8ce0-08653d0182a7)
+![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/c7d99369-428d-4b34-ac30-5fa79a832559)
+
+
+Página del menú:
+
+![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/2b535a53-ae22-4453-990f-5c97296a5d3c)
+
+Página del reservas:
+
+![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/1c2d2552-977d-4030-8bee-d4d3be8fb091)
+
+Página del sucursales:
+
+![image](https://github.com/Dani-Escobar/TPO-FrontEnd/assets/102489881/052ec0fb-d63d-47ff-98f0-d19399bc1de0)
+
