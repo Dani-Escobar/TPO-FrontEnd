@@ -1,3 +1,7 @@
+---
+permalink: /display.html
+---
+
 # TPO-FrontEnd
 
 https://github.com/Dani-Escobar/TPO-FrontEnd/blob/main/display.html
