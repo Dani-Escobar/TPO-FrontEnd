@@ -1,5 +1,5 @@
 ---
-permalink: /display.html
+permalink: https://github.com/Dani-Escobar/TPO-FrontEnd/blob/main/display.html
 ---
 
 # TPO-FrontEnd
