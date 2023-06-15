@@ -75,7 +75,7 @@ a{
   justify-content: space-around;
   padding: 20px;
 }
-#atencion-div{
+.atencion-div{
   text-align: center; 
   background-color: rgb(0, 0, 0);
 }
